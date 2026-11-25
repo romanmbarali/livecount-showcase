@@ -27,12 +27,26 @@ A venue manager already knows what works: Fridays are packed, the famous DJ brou
 
 ## The platform
 
+### History, night by night
+
+Every night as a curve against the same night last week, arrivals hour by hour, peak, average, turnover, and what deserves attention (here: the room stayed above 90% for 2 hours, so people were probably waiting at the door).
+
+![History, night view](docs/history-night.jpg)
+
+### History, week by week
+
+Entries per night, peak rate per night against the capacity thresholds, the best and worst nights of the week, compared with the previous period.
+
+![History, week view](docs/history-week.jpg)
+
+### Compare and live on the phone
+
 | | |
 |---|---|
 | ![Compare two periods](docs/compare.jpg) | ![Mobile live view](docs/mobile.jpg) |
 
 - **Live**: people inside, places left, capacity thresholds, tonight's curve against a reference night
-- **History**: every night as a curve, peaks, entries, turnover
+- **History**: by night, 7 days, 30 days or 12 months, against the previous period or last year
 - **Compare**: two periods side by side (two DJs, two formats) with what really changed
 - Works on a phone at the door as well as on a laptop the next morning
 
